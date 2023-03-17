@@ -10,8 +10,8 @@ Hi there! I'm Lambda, a passionate Fullstack Web & Hybrid Mobile Developer with 
 
 ## 💻 Experience
 
-- **NTT Ltd.** - *Software Developer* (Jan 2022 - Present)
-- **PT Radar Utama Nusantara Lapan** - *Fullstack Web & Mobile Developer* (Feb 2020 - Jan 2022)
+- **PT. NTT Indonesia Technology.** - *Software Developer* (Jan 2022 - Present)
+- **PT. Radar Utama Nusantara Lapan** - *Fullstack Web & Mobile Developer* (Feb 2020 - Jan 2022)
 - **PT. Kreasi Digital Sinergi** - *Fullstack Web & Mobile Developer* (Jun 2018 - Feb 2020)
 
 ## 🎓 Education
