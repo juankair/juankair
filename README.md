@@ -2,7 +2,7 @@
 
 📍 Jakarta, Indonesia | 📱 081906578152 | 📧 hi@lambda.web.id
 
-[🌐 Personal Website](lambda.web.id) | [🔗 LinkedIn](www.linkedin.com/in/lambdasangkala)
+[🌐 Personal Website](https://lambda.web.id) | [🔗 LinkedIn](https://linkedin.com/in/lambdasangkala)
 
 ## 👋 About Me
 
