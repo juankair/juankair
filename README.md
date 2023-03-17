@@ -35,6 +35,6 @@ Hi there! I'm Lambda, a passionate Fullstack Web & Hybrid Mobile Developer with 
 
 Feel free to reach out to me for any opportunities, collaboration, or just to say hello! 😄
 
-[![GitHub followers](https://img.shields.io/github/followers/lambdasangkala?label=Follow&style=social)](https://github.com/lambdasangkala)
+[![GitHub followers](https://img.shields.io/github/followers/juankair?label=Follow&style=social)](https://github.com/juankair)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lambdasangkala)
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-blueviolet?style=flat)](lambda.web.id)
