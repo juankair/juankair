@@ -1,6 +1,6 @@
 # Lambda Sangkala Murbawisesa
 
-📍 Jakarta, Indonesia | 📱 081906578152 | 📧 hi@lambda.web.id
+📍 Jakarta, Indonesia | 📧 hi@lambda.web.id
 
 [🌐 Personal Website](https://lambda.web.id) | [🔗 LinkedIn](https://linkedin.com/in/lambdasangkala)
 
